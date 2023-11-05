@@ -1,3 +1,3 @@
-const sub = (a, b) => {
+const subNombre = (a, b) => {
     return a - b
 }
